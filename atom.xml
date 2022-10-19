@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-18T14:00:11.869Z</updated>
+  <updated>2022-10-19T12:55:55.519Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,40 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2022/10/18/456/"/>
-    <id>http://example.com/2022/10/18/456/</id>
-    <published>2022-10-18T14:00:11.611Z</published>
-    <updated>2022-10-18T14:00:11.869Z</updated>
+    <title>HTML笔记</title>
+    <link href="http://example.com/2022/10/19/html%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2022/10/19/html%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-10-19T12:49:43.221Z</published>
+    <updated>2022-10-19T12:55:55.519Z</updated>
     
-    <content type="html"><![CDATA[<p>456</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;456&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2022/10/18/%E4%B8%80%E4%BA%8C%E4%B8%89/"/>
-    <id>http://example.com/2022/10/18/%E4%B8%80%E4%BA%8C%E4%B8%89/</id>
-    <published>2022-10-18T13:21:34.215Z</published>
-    <updated>2022-10-18T13:21:34.350Z</updated>
-    
-    <content type="html"><![CDATA[<p>一二三</p>]]></content>
+    <content type="html"><![CDATA[<p>[TOC]</p><h1 id="html"><a href="#html" class="headerlink" title="html"></a>html</h1><h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><h2 id="1-1"><a href="#1-1" class="headerlink" title="1"></a>1</h2><h3 id="1-2"><a href="#1-2" class="headerlink" title="1"></a>1</h3>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;一二三&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;html&quot;&gt;&lt;a href=&quot;#html&quot; class=&quot;headerlink&quot; title=&quot;html&quot;&gt;&lt;/a&gt;html&lt;/h1&gt;&lt;h2 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;</summary>
       
     
     
